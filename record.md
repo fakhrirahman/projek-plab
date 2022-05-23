@@ -1,0 +1,1 @@
+Kendala nomor 1 : subplot belum rapi
